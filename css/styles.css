@@ -2,12 +2,26 @@
 
 
 
+
 /*Class Selectors********************/
 
+.destinations {
+  cursor: pointer;
+  color: #0088cc;
+  list-style: none;
+}
 
+.destinations:hover {
+  text-decoration: underline;
+}
 
 /*Id Selectors***********************/
+ #new-contact {
+   padding-top: 20px;
+ }
 
-
+ #showPlaceInfo {
+   display: none;
+ }
 
 /*Media Queries**********************/
