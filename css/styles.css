@@ -5,20 +5,16 @@
 
 /*Class Selectors********************/
 
-.destinations {
+.Destinations {
   cursor: pointer;
   color: #0088cc;
-  list-style: none;
 }
 
-.destinations:hover {
+.Destinations:hover {
   text-decoration: underline;
 }
 
 /*Id Selectors***********************/
- #new-contact {
-   padding-top: 20px;
- }
 
  #showPlaceInfo {
    display: none;
