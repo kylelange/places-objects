@@ -9,9 +9,9 @@ function Destinations(_city, _landmark, _money,_visit) {
 
 Destinations.prototype.vacation = function (){
   return this.cityInput;
-  return this.landInput;
-  return this.moneyInput;
-  return this.returnInput;
+  // return this.landInput;
+  // return this.moneyInput;
+  // return this.returnInput;
 }
 
 

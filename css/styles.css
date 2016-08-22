@@ -1,23 +1,89 @@
 /*Universal Selectors****************/
 
+body {
+  background: url(../img/broken-house.jpeg)no-repeat center center fixed;
+  origin background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat fixed;
+}
 
+h1 {
+  font-family: 'Ewert', cursive;
+  font-size: 3.25em;
+  font-weight: bolder;
+}
 
+h2,h3, h4, p {
+  font-family: 'Special Elite', cursive;
+  color: blanchedalmond;
+}
+
+p {
+  font-size: 20px;
+}
+
+label {
+  font-weight: 500;
+}
+.btn{
+  font-weight: bold;
+  background-color: blanchedalmond;
+  margin-right: 20px;
+}
+
+button:hover {
+  background-color: #53316;
+}
 
 /*Class Selectors********************/
 
 .cityName {
   cursor: pointer;
-  color: #0088cc;
+  color: #053316;
+  font-weight: bold;
+  font-size: 25px;
+  text-shadow: 0px 0px 10px white;
 }
 
 .cityName:hover {
   text-decoration: underline;
+  text-shadow: 5px 0 5px white;
 }
+
+.container {
+  background-color: rgba(39,156,84,0.5);
+  padding-bottom: 20px;
+  border: 2px dashed #084A21;
+
+}
+
+.container h2 {
+  color: blanchedalmond;
+}
+
+
 
 /*Id Selectors***********************/
 
  #showPlaceInfo {
    display: none;
+   background-color:rgba(56,199,111,0.5);
+   padding: 10px 0 10px 20px;
+
  }
+
+ #vacation {
+   background-color:#5FDE90;
+    border: 5px solid #0F612E;
+    padding: 20px;
+ }
+
+#form-group {
+  color: blanchedalmond;
+}
+
+#cityInput,#landInput,#moneyInput {
+  border: 2px solid #0F612E;
+}
 
 /*Media Queries**********************/
