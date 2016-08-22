@@ -5,12 +5,12 @@
 
 /*Class Selectors********************/
 
-.Destinations {
+.cityName {
   cursor: pointer;
   color: #0088cc;
 }
 
-.Destinations:hover {
+.cityName:hover {
   text-decoration: underline;
 }
 
