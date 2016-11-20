@@ -2,44 +2,45 @@
 
 #### _Places We've Been project, August 19th 2016_
 
-#### By _**Amber Farrington**_
+#### By _**Kyle Lange and Amber Farrington**_
 
 ## Description
 
 _This project will have the user enter a place they've been, two landmarks they encountered there, what their travel expenses were total, and to tell if they would visit again YES or NO_
 
+#### See it live [HERE](https://kylelange.github.io/places-objects/).
+_
+
+
+![screenshot](Screen Shot.png)
+
+## Description
+
 ## Setup/Installation Requirements
 
-* _Have Access to the internet_
+1. Download this repo using your terminal: git clone repo-name pasted here
 
+2. View the code by drag-and-dropping the file into your [favorite text editor](https://atom.io)
 
-## Behavior Driven Development
-
-User Input    | Output  
-------------- | -------------
-3             | [1,2, "ping"]           
-5             | [1,2,3,4, "pong"]
-15            | [1-14, "ping-pong"]
-(any other #) | "Refresh and please enter a 3,5, or 15!"
-
-_Input 1)_
+3. run/check-out the program by dropping the index/html file from your folder into your web browser
 
 ## Known Bugs
 
-
+_There are no known bugs as of the last commit. Please send an ISSUE on github in the repository if you see something I have not._
 
 ## Support and contact details
 
-_You may contact me via GitHub or by email should you have any questions about this project or suggestions to improve it:
-amberf0712@outlook.com  or baronsintrees@gmail.com_
+For questions, concerns, or suggestions please email baronsintrees@gmail.com
+
 
 ## Technologies Used
 
-_Git Hub_
-_ATOM (Text Editor)_
-_Git Bash for Windows_
-_Chrome Browser_
+* HTML5
+* CSS3
+* JavaScript with jQuery 3.1
 
 ### License
 
-Copyright (c) 2016 **_Amber Farrington and Kyle Lange_**
+*This software is licensed under the MIT license.*
+
+Copyright (c) 2016 **_Kyle Lange & Amber Farrington_**
